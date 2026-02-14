@@ -1,0 +1,15 @@
+# list in python.
+
+tomi_colors =["red","blue","yellow","brown"]
+
+angie_info =["water",12,3.4,"-1"]
+
+
+print(angie_info[0])
+print(angie_info[1])
+print(angie_info[-4])
+print(angie_info[-1])
+
+print(tomi_colors[0:5])
+
+print(angie_info[0:4])
