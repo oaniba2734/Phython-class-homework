@@ -1,0 +1,4 @@
+import random
+programmer= ["Tomi","Angie","Nathienal"]
+player= random.choice(programmer)
+print (player)
